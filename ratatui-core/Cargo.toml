@@ -50,7 +50,7 @@ compact_str = "0.8.0"
 document-features = { workspace = true, optional = true }
 indoc.workspace = true
 itertools.workspace = true
-lru = "0.12.0"
+lru = "0.13.0"
 palette = { version = "0.7.6", optional = true }
 paste = "1.0.2"
 serde = { workspace = true, optional = true }
